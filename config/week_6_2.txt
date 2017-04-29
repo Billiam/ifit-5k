@@ -1,0 +1,23 @@
+iFit v 1.2                
+
+[machine settings]
+Treadmill
+Miles
+10
+100
+1
+10
+100
+5
+
+[segment settings]
+1	3	1.5	300
+2	5	1.5	600
+3	3	1.5	180
+4	5	1.5	600
+5	3	1.5	300
+
+[playlist]
+
+
+
